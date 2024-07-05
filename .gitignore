@@ -1,0 +1,5 @@
+.venv
+testing.ipynb
+keys.py
+.cache.sqlite
+__pycache__
